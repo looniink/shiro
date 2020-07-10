@@ -95,7 +95,6 @@
 - 结合后进行判断有那个权限就显示那个按钮
 
 > 个人感觉还是springsecurity好用一些，但是shiro的可定制化比较高
-> shirodemo代码地址：
 
 
   [1]: https://static.looni.ink/article/shiro/shiro_1.png#vwid=549&vhei=271
